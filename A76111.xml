@@ -1,0 +1,222 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>A declaration made by the right Honourable the Earle of Bath, one of his Majesties commissioners of array, to the whole country of Devonshire, with their answer thereunto annexed; also the manner how the said Earle of Bath endeavoured to put the commission of array in execution, at South-moulton in Devonshire, and how his men were driven out of the town by the inhabitants thereof. Whereunto is added, a true relation of the great battle betweene Prince Robert and the Parliaments forces at Worcester; with their happy victory over his cavaliers.</title>
+            <author>Bath, Henry Bourchier, Earl of, 1587 or 8-1654.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1642</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 13 KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2014-11">2014-11 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A76111</idno>
+            <idno type="STC">Wing B1132</idno>
+            <idno type="STC">Thomason E119_11</idno>
+            <idno type="STC">ESTC R17259</idno>
+            <idno type="EEBO-CITATION">99860163</idno>
+            <idno type="PROQUEST">99860163</idno>
+            <idno type="VID">112272</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A76111)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 112272)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 21:E119[11])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>A declaration made by the right Honourable the Earle of Bath, one of his Majesties commissioners of array, to the whole country of Devonshire, with their answer thereunto annexed; also the manner how the said Earle of Bath endeavoured to put the commission of array in execution, at South-moulton in Devonshire, and how his men were driven out of the town by the inhabitants thereof. Whereunto is added, a true relation of the great battle betweene Prince Robert and the Parliaments forces at Worcester; with their happy victory over his cavaliers.</title>
+                  <author>Bath, Henry Bourchier, Earl of, 1587 or 8-1654.</author>
+               </titleStmt>
+               <extent>[8] p.   </extent>
+               <publicationStmt>
+                  <publisher>Septemb. 29. London Printed for John Wright,</publisher>
+                  <pubPlace>[London] :</pubPlace>
+                  <date>[1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>With two letters dated 14 and 15 Sept. 1642.</note>
+                  <note>Signatures: A⁴.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Rupert, --  Prince, Count Palatine, 1619-1682.</term>
+               <term>Commissions of array --  England --  Early works to 1800.</term>
+               <term>Worcester (England) --  History, Military --  17th century --  Early works to 1800.</term>
+               <term>Great Britain --  History --  Civil War, 1642-1649 --  Campaigns --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2012-11</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2012-11</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2013-02</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2014-03</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:112272:1" rendition="simple:additions"/>
+            <p>A DECLARATION MADE By the right Honourable the Earle of BATH, one of his Majeſties Com<g ref="char:EOLhyphen"/>miſſioners of Array, to the whole Country of DEVONSHIRE, With their anſwer thereunto annexed;</p>
+            <p>ALSO The manner how the ſaid Earle of BATH endeavoured to put the Commiſ<g ref="char:EOLhyphen"/>ſion of Array in Execution, at <hi>South<g ref="char:EOLhyphen"/>moulton</hi> in <hi>Devonſhire,</hi> and how his men were driven out of the Town by the Inhabi<g ref="char:EOLhyphen"/>tants thereof.</p>
+            <p>Whereunto is added, A true Relation of the great Battle betweene Prince ROBERT and the Parlia<g ref="char:EOLhyphen"/>ments Forces at <hi>Worceſter;</hi> with their happy Victory over his Cavaliers.</p>
+            <p>
+               <hi>Septemb.</hi> 29. London Printed for <hi>John Wright.</hi>
+            </p>
+         </div>
+      </front>
+      <body>
+         <div type="declaration">
+            <pb facs="tcp:112272:2"/>
+            <pb facs="tcp:112272:2"/>
+            <head>A DECLARATION Of the Earle of BATH.</head>
+            <p>
+               <seg rend="decorInit">A</seg>S there are diſturbances in ſome part of this Kingdome, ſo I underſtand this Coun<g ref="char:EOLhyphen"/>ty of <hi>Devon,</hi> in many places to be falſly poſſeſſed of ſome arbitrary and Tirannicall government pretended to be ſet up by the King, and put in practice (among others by my ſelfe) Wherefore out of my great affection to you and my Country, being now immediately ready to receive the bleſſed Sacrament, I doe ſolemnly in the preſence of Almighty God profeſſe and declare that I have under<g ref="char:EOLhyphen"/>taken nothing contrary to the Lawes of this Kingdome, nor preiudiciall or hurtfull to any that ſhall obſerve it: and <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> doe further profeſſe that I have no authority nei<g ref="char:EOLhyphen"/>ther will I take the value of ſixpence from any man, but to my utmoſt power to protect you all, that every one may enioy their owne.</p>
+            <div type="response_to_declaration">
+               <head>The Anſwer.</head>
+               <p>THe diſturbances that are in this Kingdome have growne through the interferring of the Commiſſion of Array with the <hi>Militia</hi> ordained by Parliament.</p>
+               <p>The Officers in the <hi>Militia</hi> are the ſame for the moſt part that were before in the Lievtenancy, the men ap<g ref="char:EOLhyphen"/>proved by His Majeſty; the Array invades the <hi>Militia,</hi>
+                  <pb facs="tcp:112272:3"/>and hath beene the onely meanes of breaking the peace. So in <hi>Sommerſet</hi> Captaine <hi>Preſton</hi> was aſſayled and his Enſigne ſlaine in the execution of the ordinance of Parliament. And for that cauſe the authors and fau<g ref="char:EOLhyphen"/>tors of that crime are proſecuted in <hi>Sherbourne.</hi>
+               </p>
+               <p>That many places of this County are poſſeſſed with the doubt of an arbitrary government intended is true, That the fault therof is layd to the Kings charge is falſe, That the Commiſſioners of Array doe for the extent of that Commiſſion put in practice an arbitrary and Tiran<g ref="char:EOLhyphen"/>nicall government is true for theſe reaſons.</p>
+               <p>Firſt that which is but againſt the being of Parliaments is intended for an arbitrary government, but the Com<g ref="char:EOLhyphen"/>miſſioners of Array doe bend themſelves and the power of their Commiſſions againſt the being of Parliaments.</p>
+               <p>That the ſuppreſſion of this Parliament, or the drawing of the members of it to other judicature, is againſt the be<g ref="char:EOLhyphen"/>ing of Parliaments, is ſo apparant as it needs no more proofe.</p>
+               <p>Secondly That the Commiſſion it ſelfe is illegall hath beene declared by an authority not to be contradicted. And to put an illegall Commiſſion in execution as to draw his Majeſties government into the cenſure of Ty<g ref="char:EOLhyphen"/>ranny,</p>
+               <p>Thirdly the Commiſſion of Array is moſt partiall and in that reſpect Tyrannicall. By the Declaration juſtifying and explaining it, it is affirmed that a man of able body and eſtate ſerving in perſon ſhall find armes but for his perſon, but a man weake in body not ſerving ſhal find arms according to the proportion of his eſtate, ſo that by this rule a man of 40 <hi>li. per. an.</hi> and impotent ſhall find a mans arms &amp; a man to weare it; and a potent man of 100. 500. or 1000. <hi>per. an.</hi> ſhal find no more. A
+<pb facs="tcp:112272:3"/>man that is potent in boby owes that ability to the Com<g ref="char:EOLhyphen"/>mon-Wealth as the rich of his ſubſtance, why elſe is the poore able man bound to weare the impotent rich mans armes? It is moſt unreaſonable then and conſequently moſt illegall, that the bodily ſtrength of a rich man which is his great advantage ſhould be the reaſon to eaſe his eſtate, and the weakeneſſe of his equall draw upon him a groſſe inequallity of burthen.</p>
+               <p>This Declaration averreth peremptorily, that this Commiſſion (which is the thing undertaken) is lawfull, that it is not prejudiciall, that there is no authority to take ſixpence, and thereupon the holy Sacrament is ſo<g ref="char:EOLhyphen"/>lemnly received.</p>
+               <p>For the lawfulneſſe a ſingle Iudgment is oppoſed to the Parliament and the conſcience bound without reſer<g ref="char:EOLhyphen"/>vation as ſurely for the truth of it.</p>
+               <p>That's much in reſpect of the antiquity oft his law, the variety of others ſince made the difference of opini<g ref="char:EOLhyphen"/>on. But that it is not prejudiciall, let the before recited partiallity anſwer.</p>
+               <p>And for the authority to take ſixpence ſee the power to impriſon the refuſers.</p>
+               <p>With the will of any man Charity forbids to have to doe, becauſe his purpoſes are hid.</p>
+               <p>But the conſequences of their actions are apparant to provident men.</p>
+               <p>The Array doth apparently oppoſe the Parliament, and intrudes uppon thoſe offices which have beene and are now poſſeſt by others for the peace and defence of the Kingdome.</p>
+               <p>The <hi>Militia</hi> defends the Parliament, and therein ſtrives to maintaine the King and his poſterity in the ancient and rightfull government of this Realme by 3 eſtates.</p>
+               <pb facs="tcp:112272:4"/>
+               <p>In this there is true loyalty and conſtant peace.</p>
+               <p>In the other flattery and the ſeed of perpetuall War.</p>
+               <p>The <hi>Militia</hi> protects Religion and propriety of goods, and for the Common intereſt in both craves the benefit or Parliament and Church aſſemblyes.</p>
+               <p>The Array prevaling will not faile to bring both in<g ref="char:EOLhyphen"/>to ſingle power at leaſt into the danger that both were lately in. But that's forgotten, neither is it ſeene that the Array muſt embroyle this Kingdome, that the rebellion may prevaile in <hi>Ireland.</hi>
+               </p>
+            </div>
+         </div>
+         <div type="letter">
+            <head>A Copy of Letter ſent to a worthy Gentleman in LONDON.</head>
+            <opener>
+               <salute>Honourable Sir,</salute>
+            </opener>
+            <p>ACcording to my bo<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nden duty I cannot chuſe but acquaint your worſhip with the newes at <hi>Southmoulton,</hi> I my ſelfe be<g ref="char:EOLhyphen"/>ing preſent at it.</p>
+            <p>On Saturday laſt, the Earl of <hi>Bath</hi> ſent one of his ſervants unto the Maior of the Towne to know whether he ſhould have a peacea<g ref="char:EOLhyphen"/>ble entrance into his Town the Tueſday folloing, for he was min<g ref="char:EOLhyphen"/>ded to come there, to meet ſome Gentlemen upon ſome occaſions; the Maior anſwered the meſſenger, that if his intent were for peace, he ſhould come, after better conſideration, which the Ma<g ref="char:EOLhyphen"/>
+               <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>or had, he was blamed by ſome of his friends, for tha<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> he had not taken reſpite to give his anſwer, but that advice came too late.</p>
+            <p>The Tueſday being the day appoynted, there came the Eatle of <hi>Bath,</hi> my Lord <hi>Chicheſter, Baronet Pollard,</hi> Sir <hi>Popham Southcot,</hi> Sir <hi>Ralph Sidneham,</hi> Maſter <hi>Baſſet,</hi> Maſter <hi>John Acland,</hi> Maſter <hi>Iohn Gifford,</hi> Captaine <hi>Newcond</hi> with their followers, and diverſe o<g ref="char:EOLhyphen"/>thers which I cannot name. A Banquet being provided at <hi>Henry Hearders</hi> houſe the Inne-keeper, where the Earle ſent ſtore of Ve<g ref="char:EOLhyphen"/>niſon,
+<pb facs="tcp:112272:4"/>and his owne Cooke for to dreſſe it, the common ſort of the Towne fell in a great rage with the Maior and his company, for giving licence that they ſhould enter, and ſwor that if they did attempt any thing there, or read their Commiſſion of Array, they would beate them all downe and kill them, if they were all hanged for it; and thereupon betooke themſelves to Armes, both men, wo<g ref="char:EOLhyphen"/>men, and children, about the Croſſe in the Market place, I doe ver<g ref="char:EOLunhyphen"/>rily <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>eleeve they were in number at leaſt 1000. ſome with Mus<g ref="char:EOLhyphen"/>quets loaden, ſome with Halberts and blacke Bills, ſome with Clubs, ſome with Pikes, ſome with dunge Evells, ſome with great Poles, one I ſaw which had heat the calke of a Sive, and beat him out right, and ſet him into a long ſtaffe, the women had filled all the ſteps of the croſſe with great ſtones &amp; got up &amp; ſate on them, ſwea<g ref="char:EOLhyphen"/>ring if they did come there they would braine them. One thing which is worth the noting, a woman which is a Butchers wife, came running with her lapfull of Rams-hornes for to throw at them, ſome of the Gentlemen were comming towards the Croſſe, it was thought to publiſh the Array, preſently the people gave a ſhoute, and did cry, they be come, at which they were all ready to ſtand againſt them, the Gentlemen ſeeing that, betooke them<g ref="char:EOLhyphen"/>ſelves every one to houſe, and after that not one of them nor their ſervants, durſt ſhow themſelves in the ſtreet; it is thought of many, that if the Towne had not riſen againſt them, they would not ſo ſoone have departed, ſurely whatſoever collor they put upon it, their intent was ill, for their men gave very dange<g ref="char:EOLhyphen"/>rous ſpeeches, but God is able with his ſmaleſt creatures to daunt the hearts of Kings, as with Lice and Frogs and ſuch like: ſo a<g ref="char:EOLhyphen"/>mongſt this crew there were both men and women with Clubs and Staves, which doe daily beg from doore to doore, and when the Earl rod forth of Town, they did throw ſtones after him and his men. I ſhall deſire your Worſhips to excuſe my boldneſſe in writing ſo large, but if you had ſeene it, you would have thought this Relation to be too little. Thus with my humble ſervice unto you and my young Maſter, I commend you both with the whole Family unto the divine protection, and ever reſt</p>
+            <closer>
+               <dateline>South-moulton <date>the 15 of <hi>September,</hi> 1642.</date>
+               </dateline>
+            </closer>
+         </div>
+         <div type="letter">
+            <pb facs="tcp:112272:5"/>
+            <head>
+               <hi>From the Rendevouz in</hi> Worceſter, <hi>Septem.</hi> 24. 1642.</head>
+            <opener>
+               <salute>SJR,</salute>
+            </opener>
+            <p>THe <gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>nſeaſonableneſſe of the weather in our march with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Artillery, extreamly retarded our comming to <hi>Worceſter</hi> which prevented us of taking the Cavaliers, though not of the Ci<g ref="char:EOLhyphen"/>ty of <hi>Worceſter,</hi> which our Horſe obtained with much Honour though with great difficulty, and diſadvantage; for (as I have <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> from my comrade that was in the fight) Prince <hi>Robert</hi> with <gap reason="illegible" resp="#KEYERS" extent="1 word">
+                  <desc>〈◊〉</desc>
+               </gap> Troopes came to <hi>Worcester,</hi> and joyned with Sir Iohn <hi>Byron:</hi> we had about 10 Troopes neere the City, though not in a body, Prince <hi>Robert</hi> ſallies out of the City, and puts his Horſe in Battal<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> on the faire Meddow, and ſeem<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap>d to challenge the Encounter; Co<g ref="char:EOLhyphen"/>lonell <hi>Saudis,</hi> with his Regiment of Horſe, Captaine <hi>Wingate,</hi> and Captaine <hi>Hales,</hi> were about halfe a quarter of a mile, and had n<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                  <desc>•</desc>
+               </gap> paſſage to the Enemy, but in a lane, where they could not march five a breſt: yet ſo keene Colonell <hi>Sandis</hi> was, that he adventured to march up, and charged the Prince, which he did ſo effectually that eleven of them quickly fell, Prince <hi>Robert,</hi> or Prince <hi>Mauri<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>
+               </hi> being ſure wounded in the head, or on his hand: commiſſary <hi>VVilm t</hi> he comes and relieves Prince <hi>Robert,</hi> and Colonell <hi>Sand<gap reason="illegible" resp="#KEYERS" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>
+               </hi> and he had a ſingle encounter, Colonell <hi>Sandis</hi> received a ſo<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> wound, but we hope not mortall, and run his ſword up to the hi<gap reason="illegible" resp="#KEYERS" extent="2 letters">
+                  <desc>••</desc>
+               </gap> in commiſary <hi>VVilmots</hi> body, as it is reported, then Captaine <hi>VVingates</hi> Troop came on, &amp; did moſt deſperate ſervice, &amp; after him came Captaine <hi>Fines,</hi> and Captaine <hi>Hale,</hi> then came up Cap<g ref="char:EOLhyphen"/>taine <hi>Austins</hi> Troop, who could not all this while get out of the Lane, and gave a moſt deſperate charge, which the enemy being ſenſible of, aad ſeeing more troopes comming, retreated into the City of <hi>VVorcester,</hi> and Captain <hi>Auſtin</hi> followed them into the City, and did execution on them, and tooke 26 Priſoners, Ser<g ref="char:EOLhyphen"/>ieant Maior <hi>Dowglas</hi> was ſlaine on our ſide, we loſt no man of note elſe, the number ſlaine on both ſides are much alike, not excee<g ref="char:EOLhyphen"/>ding thirty on each ſide: the Lord Generall is now in the City of <hi>VVorceſter,</hi> and the Maior hath bin twice on his knees to the Lord Generall for his pardon in betraying the City into the hands of the Cavaliers, but cannot obtaine it.</p>
+            <trailer>FINIS.</trailer>
+         </div>
+      </body>
+   </text>
+</TEI>
